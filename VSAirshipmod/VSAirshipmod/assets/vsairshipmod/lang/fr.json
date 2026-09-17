@@ -1,0 +1,151 @@
+{
+  "game:tabname-airship": "Airship mod!",
+  //research items
+  "vsairshipmod:item-aerostatica": "Aérostatica !",
+  "vsairshipmod:itemdesc-aerostatica": "La synthèse raffinée des technologies étudiées concernant les aérostats !",
+  "vsairshipmod:item-componentscroll-tier1": "Parchemin de composant du brûleur d'aérobarque !",
+  "vsairshipmod:itemdesc-componentscroll-tier1": "Un mystérieux parchemin révélant l'indice final permettant de construire une aérobarque de niveau 1 !",
+  "vsairshipmod:item-componentscroll-tier2": "Parchemin de composant du gazéifieur d'aérobarque !",
+  "vsairshipmod:itemdesc-componentscroll-tier2": "Un mystérieux parchemin révélant l'indice final permettant de construire une aérobarque de niveau 2 !",
+  "vsairshipmod:item-researchpaperitem": "Recherches sur les aérostats",
+  "vsairshipmod:itemdesc-researchpaperitem": "Les livres que vous avez transcrits ont été lus une dernière fois avant de tomber en poussière illisible. Heureusement, vous avez réussi à déchiffrer quelques indices utiles et des mentions de recherches intéressantes.",
+  "vsairshipmod:item-schematic-tier1": "Schéma d'aérobarque (niveau 1)",
+  "vsairshipmod:itemdesc-schematic-tier1": "Un schéma décrivant comment construire une aérobarque de niveau 1 !",
+  "vsairshipmod:item-schematic-tier2": "Schéma d'aérobarque (niveau 2)",
+  "vsairshipmod:itemdesc-schematic-tier2": "Un schéma décrivant comment construire une aérobarque de niveau 2 !",
+  "vsairshipmod:item-strangecloth": "Étoffe étrange",
+  "vsairshipmod:itemdesc-strangecloth": "Une curieuse pile de chutes de tissu. Elle semble étanche à l'air, hydrophobe et résistante aux flammes !",
+  //General airship items
+  "vsairshipmod:item-airshipmotorshaft": "Pièce d'arbre de moteur d'horlogerie",
+  "vsairshipmod:itemdesc-airshipmotorshaft": "Le premier des deux composants du moteur d'horlogerie.",
+  "vsairshipmod:item-airshipmotorbrace": "Pièce de support de moteur d'horlogerie",
+  "vsairshipmod:itemdesc-airshipmotorbrace": "Le second des deux composants du moteur d'horlogerie.",
+  
+  //Balloon cloth pipeline
+  "vsairshipmod:item-coatingmix": "Mélange d'enduit pour ballon",
+  "vsairshipmod:itemdesc-coatingmix": "Épais et visqueux, ce mélange produira un enduit liquide pour ballon une fois mélangé à de l'eau.",
+  "vsairshipmod:item-coatingliquid": "Enduit liquide pour ballon",
+  "incontainer-item-coatingliquid": "Enduit liquide pour ballon",
+  "vsairshipmod:item-treatedcloth*": "Étoffe traitée pour ballon",
+  "vsairshipmod:itemdesc-treatedcloth*": "Étoffe traitée destinée à la construction d'aérobarques.",
+  "vsairshipmod:item-airshipfat": "Graisse hachée",
+  "vsairshipmod:itemdesc-airshipfat": "De la graisse animale hachée en petits morceaux pour servir de combustible au brûleur d'une <a href=\"handbook://item-vsairshipmod:airship-tier1-oak\">aérobarque de niveau 1</a>",
+  //attachable items
+  "vsairshipmod:item-airshipdeed": "Acte de propriété",
+  "vsairshipmod:itemdesc-airshipdeed": "Ce document peu amusant décrit la propriété exclusive et la certification appropriée d'un moyen de transport aérien sûr et responsi-blah blah blah. Oh, wow ! Il y a également une copie de rechange, au cas où. (Uniquement destiné aux niveaux 2 et supérieurs.)",
+  "vsairshipmod:item-airshipchest-golden-aged": "Coffre d'aérobarque doré vieilli",
+  "vsairshipmod:item-airshipchest-golden": "Coffre d'aérobarque doré",
+  "vsairshipmod:item-airshipchest-owl-aged": "Coffre d'aérobarque hibou vieilli",
+  "vsairshipmod:item-airshipchest-owl": "Coffre d'aérobarque hibou",
+  "vsairshipmod:itemdesc-airshipchest-*": "Des encoches sont taillées dans le dessous pour aider à le fixer sur une aérobarque",
+  "vsairshipmod:block-figurehead-bear": "Figure de proue d'aérobarque (ours)",
+  "vsairshipmod:block-figurehead-eidolon": "Figure de proue d'aérobarque (eidolon)",
+  "vsairshipmod:block-figurehead-erel": "Figure de proue d'aérobarque (erel)",
+  "vsairshipmod:block-figurehead-gear": "Figure de proue d'aérobarque (engrenage)",
+  "vsairshipmod:block-figurehead-seamonster": "Figure de proue d'aérobarque (monstre marin)",
+  "vsairshipmod:block-figurehead-siren": "Figure de proue d'aérobarque (sirène)",
+  "vsairshipmod:block-figurehead-skull": "Figure de proue d'aérobarque (crâne)",
+  "vsairshipmod:block-figurehead-thunderlord": "Figure de proue d'aérobarque (seigneur du tonnerre)",
+  "vsairshipmod:block-figurehead-wolf": "Figure de proue d'aérobarque (loup)",
+  "vsairshipmod:blockdesc-figurehead-*": "Une réplique plus petite et plus légère qui s'adapte aux aérobarques",
+  //tier1 items
+  "vsairshipmod:item-vsairshipmodroller-tier1": "Kit de chantier d'aérobarque de niveau 1 (14x7)",
+  "vsairshipmod:itemdesc-vsairshipmodroller-tier1": "Un chantier de construction soigneusement emballé.",
+  "vsairshipmod:item-*vsairshipmodconstruction-tier1-*": "Chantier d'aérobarque de niveau 1",
+  "creature-vsairshipmod:vsairshipmodconstruction-tier1-*-SeleAP": "<br><font color='yellow'>• Lutrin du chantier naval •</font>",
+  "vsairshipmod:item-airship-tier1-*": "Aérobarque compacte",
+  "vsairshipmod:itemdesc-*airship-tier1-*": "Elle est plutôt lourde, quelle que soit la quantité de carburant qu'elle contient encore.",
+  //tier 2 items
+  "vsairshipmod:item-vsairshipmodroller-tier2": "Kit de chantier d'aérobarque de niveau 2 (16x11)",
+  "vsairshipmod:itemdesc-vsairshipmodroller-tier2": "Un chantier de construction soigneusement emballé.",
+  "vsairshipmod:item-*vsairshipmodconstruction-tier2-*": "Chantier d'aérobarque de niveau 2",
+  "creature-vsairshipmod:vsairshipmodconstruction-tier2-*-SeleAP": "<br><font color='yellow'>• Lutrin du chantier naval •</font>",
+  "vsairshipmod:item-*airship-tier2-acacia": " Aérobarque de niveau 2 (acacia)",
+  "vsairshipmod:item-*airship-tier2-aged": " Aérobarque de niveau 2 (vieillie)",
+  "vsairshipmod:item-*airship-tier2-baldcypress": " Aérobarque de niveau 2 (cyprès chauve)",
+  "vsairshipmod:item-*airship-tier2-birch": " Aérobarque de niveau 2 (bouleau)",
+  "vsairshipmod:item-*airship-tier2-ebony": " Aérobarque de niveau 2 (ébène)",
+  "vsairshipmod:item-*airship-tier2-kapok": " Aérobarque de niveau 2 (fromager)",
+  "vsairshipmod:item-*airship-tier2-larch": " Aérobarque de niveau 2 (mélèze)",
+  "vsairshipmod:item-*airship-tier2-maple": " Aérobarque de niveau 2 (érable)",
+  "vsairshipmod:item-*airship-tier2-oak": " Aérobarque de niveau 2 (chêne)",
+  "vsairshipmod:item-*airship-tier2-pine": " Aérobarque de niveau 2 (pin)",
+  "vsairshipmod:item-*airship-tier2-purpleheart": " Aérobarque de niveau 2 (peltogyne)",
+  "vsairshipmod:item-*airship-tier2-redwood": " Aérobarque de niveau 2 (séquoia)",
+  "vsairshipmod:item-*airship-tier2-walnut": " Aérobarque de niveau 2 (noyer)",
+  "vsairshipmod:itemdesc-airship-tier2-*": "Ne trichez pas, lol :)",
+  //tier 1 airship
+  "creature-vsairshipmod:airship-tier1-*-lanternstorageAP": "<br><font color='yellow'>• Emplacement pour lanterne •</font>",
+  "creature-vsairshipmod:airship-tier1-*-riderseatAP": "<br><font color='yellow'>• Siège du pilote ! •</font>",
+  "creature-vsairshipmod:airship-tier1-*-shieldstorageAP": "<br><font color='yellow'>• Emplacement pour bouclier •</font>",
+  "creature-vsairshipmod:airship-tier1-*-burnervalveAP": "<br><font color='yellow'>• Activer le vol stationnaire •</font>",
+  "vsairshipmod:item-creature-airship-tier1-*": "Aérobarque de niveau 1",
+  "vsairshipmod:item-handbooktext-vsairshipmod:vsairshipmodroller-tier1":"Les chantiers sont placés sur un terrain plat comme zone de construction et site de lancement d'une <a href=\"handbooksearch://aérobarque compacte\">aérobarque.</a> Utilisez la touche <hk>toolmodeselect</hk> pour ouvrir un petit menu permettant de modifier l'orientation de la zone d'aperçu. Faites attention aux dimensions indiquées dans son nom et à l'aperçu de placement.
+L'aérobarque sera lancée dans la direction correspondant à l'orientation choisie !<br><br>(Lors de son placement, vous vous trouverez du côté avant du chantier de niveau 1.)",
+  "vsairshipmod:item-handbooktext-*airship-tier1-*":"<strong>Comment la construire</strong><br><br>Les aérobarques sont construites dans un chantier désigné sur un terrain plat et seront lancées depuis l'endroit où elles ont été construites. Une fois lancée, vous pouvez transporter l'aérobarque comme un sac à dos en maintenant <hk>shift</hk> et en cliquant dessus avec <hk>rightmouse</hk>.
+(Vous ne pourrez pas la ranger si des accessoires y sont fixés.) Elles peuvent être déployées en maintenant <hk>ctrl</hk> et en faisant défiler jusqu'à l'emplacement du sac à dos, puis en cliquant avec <hk>rightmouse</hk> sur le sol. L'aérobarque peut également être placée comme stockage au sol. Maintenez <hk>shift</hk> et cliquez avec <hk>rightmouse</hk> pour la placer au sol. Elle peut être démontée contre une restitution partielle des matériaux en maintenant <hk>rightmouse</hk> avec une <a href=\"handbooksearch://scie\">scie</a> en main.
+Voir l'entrée <a href=\"handbook://vsairshipmod-tier1-buildinfo\">Construire une aérobarque</a> du manuel pour plus d'informations sur sa construction.<br><br><strong>Déplacement</strong><br><br>Une fois l'aérobarque lancée, cliquez avec <hk>rightmouse</hk> sur le dessus du baril de carburant pour vous asseoir sur le ''siège''.
+L'aérobarque ne peut voler que si elle possède un <a href=\"handbooksearch://engrenage temporel\">engrenage temporel</a> et a été alimentée avec de la <a href=\"handbooksearch://pourriture\">pourriture</a> et/ou de la <a href=\"handbook://item-vsairshipmod:airshipfat\">graisse hachée.</a> Maintenez [Espace] pour actionner le brûleur et faire monter l'aérobarque ; lorsque vous cessez de brûler, elle redescend. Vous pouvez également maintenir la touche <hk>ctrl</hk> pour ouvrir immédiatement la trappe d'évacuation supérieure et descendre.
+Dans les airs, vous pouvez utiliser les touches de déplacement habituelles. Le moyen le plus rapide de parcourir de longues distances est de prendre de l'altitude et de profiter des courants de vent !<br><br><strong>Les règles suivantes s'appliquent aux courants de vent :</strong><br>1. Les précipitations d'une zone influencent la direction du vent dans cette zone.<br>2. La météo détermine la force du vent dont vous pouvez profiter.<br>3.
+Votre distance par rapport au sol détermine la force avec laquelle le vent vous pousse.<br><br>Pour préciser, si la météo actuelle n'est qu'une « légère brise », vous ne serez poussé qu'à la vitesse maximale d'une légère brise à l'altitude maximale.<br><br><strong>INDICATION VISUELLE</strong><br><br>Les girouettes situées de chaque côté indiquent la direction du vent à votre altitude actuelle.<br><br>La jauge du baril indique le carburant restant.
+<br><br>La jauge en verre derrière vous indique la distance restante permise par l'engrenage temporel actuellement utilisé.<br><br><strong>VOL STATIONNAIRE</strong><br><br>Au-dessus de votre tête se trouve une valve permettant d'activer un mode de vol stationnaire qui consomme passivement une petite quantité de carburant supplémentaire. Il empêche également le vent de vous affecter. Cette fonction est spécifiquement destinée à servir d'outil de vol cohérent avec le lore pour construire des structures verticales.
+Elle peut également servir à vous dégager lorsque le vent vous pousse dans un coin dont vous ne pouvez plus sortir. Cette fonction est limitée à l'aérobarque de niveau 1.<br><br><strong>Équipement</strong><br><br>Les accessoires sont ajoutés avec <hk>ctrl</hk> + <hk>rightmouse</hk>.<br><br>Vous pouvez placer un <a href=\"handbooksearch://bouclier\">bouclier</a> à l'avant du baril de carburant.<br><br>Vous pouvez fixer une <a href=\"handbooksearch://lanterne\">lanterne</a> à l'anneau métallique fixé au ballon au-dessus de vous.",
+  "game:vsairshipmod-tier1-buildinfo-title": "Mécanique du mod : construire une aérobarque de niveau 1",
+  "game:vsairshipmod-tier1-buildinfo-text": "<strong>Construction de l'aérobarque</strong><br><br>Construire une <a href=\"handbook://item-vsairshipmod:airship-tier1-oak\">aérobarque de niveau 1</a> nécessite beaucoup de matériaux et de nombreuses étapes, mais tout commence avec un <a href=\"handbook://item-vsairshipmod:vsairshipmodroller-tier1\">kit de chantier d'aérobarque de niveau 1 (14x7).</a><br><br>Après avoir transcrit suffisamment de <a href=\"handbook://item-vsairshipmod:researchpaperitem\">recherches sur les aérostats</a> pour fabriquer l'<a href=\"handbook://item-vsairshipmod:aerostatica\">Aérostatica</a>, utilisez-la pour fabriquer un <a href=\"handbook://item-vsairshipmod:schematic-tier1\">schéma d'aérobarque (niveau 1)</a>.
+Utilisez ce schéma pour fabriquer le kit de chantier.<br><br>Si vous tenez le kit de chantier dans votre barre d'accès rapide, une zone de schéma de 7 blocs de large sur 14 blocs de long apparaîtra devant vous. Placez le kit sur une surface plane et assurez-vous d'orienter le chantier dans la direction souhaitée pour le lancement de l'aérobarque. Vous pouvez modifier la direction du chantier avec la touche [F].
+Une fois placé, vous vous trouverez du côté avant du chantier.<br><br>Ensuite, si l'aide à l'interaction avec les blocs est activée (avec <hk>blockinteractionhelp</hk>), regarder le lutrin du chantier vous indiquera les prochaines étapes.
+Vous aurez besoin de rondins et de planches du même type de bois.<br><br>Pour le ballon d'une aérobarque de niveau 1, vous devrez réunir suffisamment de <a href=\"handbooksearch://ficelle de lin\">ficelle de lin</a> pour produire un total calculé visuellement de 100 unités d'<a href=\"handbooksearch://étoffe\">étoffe.</a> Pensez à préparer une serre de culture du lin avec le bon engrais !<br><br>(Nous avons également créé un mod indépendant qui ajoute des productions multipliées aux machines de fabrication entraînées par des moulins à vent afin de répondre à cette forte demande d'étoffe.
+Ce mod s'appelle Clothier's Heirlooms.)<br><br>Toute l'étoffe devra être traitée avec de l'<a href=\"handbook://item-vsairshipmod:coatingliquid\">enduit liquide pour ballon.</a><br><br>La configuration du mod vous permet de définir la quantité d'enduit liquide pour ballon consommée à chaque traitement, ce qui vous permet de modifier la quantité totale finale d'objets nécessaires pour fabriquer suffisamment de <a href=\"handbook://item-vsairshipmod:coatingmix\">mélange d'enduit pour ballon</a> destiné au processus d'enduction.
+Pour plus d'informations et d'explications détaillées à ce sujet, veuillez consulter la description de la page ModDB et recherchez COATING LIQUID GRIND CONFIGURATION. Merci !<br><br><a href=\"handbook://item-vsairshipmod:airship-tier1-oak\">Consultez l'aérobarque de niveau 1</a> pour plus d'informations sur l'équipement de votre nouvelle aérobarque.<br><br>Vous pouvez transporter l'aérobarque comme un sac à dos en maintenant <hk>shift</hk> et en cliquant dessus avec <hk>rightmouse</hk>.
+(Vous ne pourrez pas la ranger si des accessoires y sont fixés.)<br><br>En tant que sac à dos, elle peut être déballée et déployée en maintenant <hk>ctrl</hk> et en faisant défiler jusqu'à l'emplacement du sac à dos, puis en cliquant avec <hk>rightmouse</hk> pour la placer au sol.<br><br>L'aérobarque peut également être placée comme stockage au sol.
+Maintenez <hk>shift</hk> et cliquez avec <hk>rightmouse</hk> pour la placer au sol.<br><br>Elle peut être démontée contre une restitution partielle des matériaux en maintenant <hk>rightmouse</hk> avec une <a href=\"handbooksearch://scie\">scie</a> en main.",
+  //tier 2 airship
+  "creature-vsairshipmod:airship-tier2-*-LanternStorageAP": "<br><font color='yellow'>• Emplacement pour lanterne •</font>",
+  "creature-vsairshipmod:airship-tier2-*-LeftSeatAP": "<br><font color='yellow'>• Siège passager •</font>",
+  "creature-vsairshipmod:airship-tier2-*-RightSeatAP": "<br><font color='yellow'>• Siège du pilote ! •</font>",
+  "creature-vsairshipmod:airship-tier2-*-ShieldStorage*AP": "<br><font color='yellow'>• Emplacement pour bouclier •</font>",
+  "creature-vsairshipmod:airship-tier2-*-LeftStorageAP": "<br><font color='yellow'>• Emplacement cargo / passager •</font>",
+  "creature-vsairshipmod:airship-tier2-*-RightStorageAP": "<br><font color='yellow'>• Emplacement cargo / passager •</font>",
+  "creature-vsairshipmod:airship-tier2-*-ThrottleLockAP": "<br><font color='yellow'>• Verrouillage de croisière •</font>",
+  "creature-vsairshipmod:airship-tier2-*-CoalBarrelAP": "<br><font color='yellow'>• Baril de charbon •</font>",
+  "creature-vsairshipmod:airship-tier2-*-GearCubeAP": "<br><font color='yellow'>• Emplacement d'axe pour engrenage temporel •</font>",
+  "creature-vsairshipmod:airship-tier2-*-CookingPotAP": "<br><font color='yellow'>• Emplacement idéal pour une marmite de provisions •</font>",
+  "creature-vsairshipmod:airship-tier2-*-FigureHead*AP": "<br><font color='yellow'>• Emplacement pour figure de proue •</font>",
+  "creature-vsairshipmod:airship-tier2-*-DeedBeamAP": "<br><font color='yellow'>• Emplacement pour acte de propriété d'aérobarque •</font>",
+  "creature-vsairshipmod:airship-tier2-*-ToolStorage*AP": "<br><font color='yellow'>• Emplacement pour une hache, une pelle, une pioche ou une pioche de prospection •</font>",
+  "creature-vsairshipmod:airship-tier2-*-LPaqueAP": "<br><font color='yellow'>• Plaque nominative •</font>",
+  "creature-vsairshipmod:airship-tier2-*-CargoStorage*AP": "<br><font color='yellow'>• Emplacements cargo pour sacs de couchage ou coffres d'aérobarque •</font>",
+  "vsairshipmod:item-handbooktext-vsairshipmod:vsairshipmodroller-tier2":"Les chantiers sont placés sur un terrain plat comme zone de construction et site de lancement d'une <a href=\"handbooksearch://aérobarque de niveau 2\">aérobarque.</a> Utilisez la touche <hk>toolmodeselect</hk> pour ouvrir un petit menu permettant de modifier l'orientation de la zone d'aperçu. Faites attention aux dimensions indiquées dans son nom et à l'aperçu de placement.
+L'aérobarque sera lancée dans la direction correspondant à l'orientation choisie !<br><br>(Lors de son placement, vous vous trouverez du côté droit du chantier de niveau 2.)",
+  "game:vsairshipmod-tier2-buildinfo-title": "Mécanique du mod : construire une aérobarque de niveau 2",
+  "game:vsairshipmod-tier2-buildinfo-text": "<strong>Construction de l'aérobarque</strong><br><br>Construire une <a href=\"handbooksearch://aérobarque de niveau 2\">aérobarque de niveau 2</a> nécessite beaucoup de matériaux et de nombreuses étapes, mais tout commence avec un <a href=\"handbook://item-vsairshipmod:vsairshipmodroller-tier2\">kit de chantier d'aérobarque de niveau 2 (16x11).</a><br><br>Après avoir transcrit suffisamment de <a href=\"handbook://item-vsairshipmod:researchpaperitem\">recherches sur les aérostats</a> pour fabriquer l'<a href=\"handbook://item-vsairshipmod:aerostatica\">Aérostatica</a>, utilisez-la pour fabriquer un <a href=\"handbook://item-vsairshipmod:schematic-tier2\">schéma d'aérobarque (niveau 2)</a>.
+Utilisez ce schéma pour fabriquer le kit de chantier. Si vous tenez le kit de chantier dans votre barre d'accès rapide, une zone de schéma de 16 blocs de large sur 11 blocs de long apparaîtra devant vous. Placez le kit sur une surface plane et assurez-vous d'orienter le chantier dans la direction souhaitée pour le lancement de l'aérobarque. Vous pouvez modifier la direction du chantier avec la touche <hk>toolmodeselect</hk>.
+Une fois placé, vous vous trouverez du côté droit du chantier.<br><br>Ensuite, si l'aide à l'interaction avec les blocs est activée (avec <hk>blockinteractionhelp</hk>), regarder le lutrin du chantier vous indiquera les prochaines étapes.<br><br>Vous aurez besoin de rondins et de planches du même type de bois.
+Pour le ballon d'une aérobarque de niveau 2, vous devrez réunir suffisamment de <a href=\"handbooksearch://ficelle de lin\">ficelle de lin</a> pour produire un total calculé visuellement de 224 unités d'<a href=\"handbooksearch://étoffe\">étoffe.</a> <br><br>Pensez à préparer une serre de culture du lin avec le bon engrais !<br><br>(Nous avons créé un mod indépendant qui ajoute des productions multipliées aux machines de fabrication entraînées par des moulins à vent afin de répondre à cette forte demande d'étoffe.
+Ce mod s'appelle Clothier's Heirlooms.)<br><br>Toute l'étoffe devra être traitée avec de l'<a href=\"handbook://item-vsairshipmod:coatingliquid\">enduit liquide pour ballon.</a> La configuration du mod vous permet de définir la quantité d'enduit liquide pour ballon consommée à chaque traitement, ce qui vous permet de modifier la quantité totale finale d'objets nécessaires pour fabriquer suffisamment de <a href=\"handbook://item-vsairshipmod:coatingmix\">mélange d'enduit pour ballon</a> destiné au processus d'enduction.<br><br>Pour plus d'informations et d'explications détaillées à ce sujet, veuillez consulter la description de la page ModDB et recherchez COATING LIQUID GRIND CONFIGURATION.
+Merci !<br><br>Consultez l'<a href=\"handbooksearch://aérobarque de niveau 2\">aérobarque de niveau 2</a> pour plus d'informations sur l'équipement de votre nouvelle aérobarque.<br><br>Elle peut être démontée contre une restitution partielle des matériaux en maintenant <hk>rightmouse</hk> avec une <a href=\"handbooksearch://scie\">scie</a> en main.",
+  "vsairshipmod:item-handbooktext-vsairshipmod:airship-tier2-*":"<strong>Comment la construire</strong><br><br> Les aérobarques sont construites dans un chantier désigné sur un terrain plat et seront lancées depuis l'endroit où elles ont été construites. Elles ne peuvent pas être ramassées. Elle peut être démontée contre une restitution partielle des matériaux en maintenant <hk>rightmouse</hk> avec une <a href=\"handbooksearch://scie\">scie</a> en main.
+Voir l'entrée <a href=\"handbook://vsairshipmod-tier2-buildinfo\">Construire une aérobarque</a> du manuel pour plus d'informations sur sa construction.<br><br><strong>Déplacement</strong><br><br>Une fois l'aérobarque construite, cliquez avec <hk>rightmouse</hk> sur le siège arrière tribord (le siège entouré de leviers) pour vous asseoir : ce siège permet de contrôler l'aérobarque.
+L'aérobarque ne peut voler que si elle est alimentée par <strong>(du combustible le moins efficace au plus efficace) </strong> du <a href=\"handbooksearch://charbon de bois\">charbon de bois</a>, de l'<a href=\"handbooksearch://anthracite\">anthracite</a>, de la <a href=\"handbooksearch://houille\">houille</a> ou du <a href=\"handbooksearch://lignite\">lignite.</a><br>Le moteur d'horlogerie ne fonctionne que s'il possède au moins un <a href=\"handbooksearch://engrenage temporel\">engrenage temporel.</a><br><br>Maintenir [Espace] ouvre la valve à gaz du gazéifieur pour faire monter l'aérobarque.
+Maintenir <hk>ctrl</hk> ouvre la trappe d'évacuation supérieure pour faire descendre l'aérobarque. Vous perdrez de l'altitude de force lorsque le gazéifieur n'aura plus de combustible. (Bien qu'irréaliste, cela est intentionnel pour des raisons d'équilibrage du gameplay.) Lorsque vous êtes dans les airs, vous pouvez utiliser les touches de déplacement habituelles.
+Vous pouvez également, ou en cas d'urgence, voler sans utiliser le moteur en prenant de l'altitude et en vous laissant porter exclusivement par les courants de vent, à une vitesse moindre.<br><br><strong>Les règles suivantes s'appliquent aux courants de vent :</strong><br>1. Les précipitations d'une zone influencent la direction du vent dans cette zone.<br>2. La météo détermine la force du vent dont vous pouvez profiter.<br>3.
+Votre distance par rapport au sol détermine la force avec laquelle le vent vous pousse.<br><br>Pour préciser, si la météo actuelle n'est qu'une « légère brise », vous ne serez poussé qu'à la vitesse maximale d'une légère brise à l'altitude maximale.<br><br><strong>INDICATION VISUELLE</strong><br><br>Les girouettes au-dessus de vous indiquent la direction du vent à votre altitude actuelle.<br><br>La jauge du baril indique le carburant restant.
+<br><br>La jauge en verre derrière vous indique la distance restante permise par l'<a href=\"handbooksearch://engrenage temporel\">engrenage temporel</a> actuellement utilisé.<br><br><strong>Équipement</strong><br><br>Les accessoires sont ajoutés avec <hk>ctrl</hk> + <hk>rightmouse</hk>.<br>Un <a href=\"handbook://item-vsairshipmod:airshipdeed\">acte de propriété</a> se fixe au mât horizontal pour revendiquer l'aérobarque.<br>Une <a href=\"handbooksearch://lanterne\">lanterne</a> peut être fixée au grand engrenage en bois à la proue.<br>Un <a href=\"handbooksearch://bouclier\">bouclier</a> peut être fixé à chacune des quatre extrémités extérieures des traverses.<br>Une <a href=\"handbooksearch://marmite\">marmite</a> ou une <a href=\"handbooksearch://jarre en céramique\">jarre en céramique</a> peut être placée au-dessus du gazéifieur.<br>Un <a href=\"handbooksearch://lit de foin\">sac de couchage</a> ou un <a href=\"handbooksearch://coffre d'aérobarque\">coffre au trésor d'aérobarque</a> peut être installé sur les emplacements cargo qui longent le mât.<br>Une <a href=\"handbooksearch://figure de proue d'aérobarque\">figure de proue d'aérobarque</a> peut être fixée aux deux extrémités du mât.<br>Une pelle, une hache, une pioche ou une pioche de prospection peuvent être accrochées sur le côté de l'aérobarque.<br>Un récipient ou un coffre peut être placé sur les deux emplacements avant.",
+  // hYPERION's stuff
+  "vsairshipmod:float-fuel": "{0} de carburant restant",
+  "vsairshipmod:idle": "Aérobarque à l'arrêt",
+  "vsairshipmod:int-temporalgearcount": "{0} engrenages temporels restants",
+  "vsairshipmod:int-temporalfuelusage": "Prochain engrenage épuisé dans : {0}",
+  "vsairshipmod:temporalfueldepletedhorizontal": "Engrenages épuisés : moteur inutilisable !",
+  "vsairshipmod:int-coalstacksize": "{0} morceaux de charbon restants",
+  "vsairshipmod:coalfueldepletedvertical": "Charbon insuffisant : impossible de maintenir l'altitude !",
+  "vsairshipmod:int-coalfuelusage": "Temps de vol total restant avec le charbon : {0}",
+  "vsairshipmod:cannotremovefuelinflight": "Impossible de retirer le carburant pendant le vol !",
+  "vsairshipmod:engineatmax3gears": "Ce moteur ne peut accepter que trois engrenages !",
+  "vsairshipmod:insert-temporal-gear": "Ajouter des engrenages temporels",
+  "vsairshipmod:toggle-cruise": "Activer/désactiver le régulateur",
+  "vsairshipmod:remove-coal": "Retirer du charbon",
+  "vsairshipmod:add-coal": "Ajouter du charbon",
+  "vsairshipmod:dismount-warning": "Attention ! Vous êtes en l'air ! Appuyez à nouveau pour descendre !",
+  "vsairshipmod:toggleburner": "Activer/désactiver le brûleur"
+}
